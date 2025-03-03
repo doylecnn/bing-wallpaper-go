@@ -5,7 +5,7 @@ go 1.24.0
 require (
 	github.com/getlantern/systray v1.2.2
 	github.com/reujab/wallpaper v0.0.0-20210630195606-5f9f655b3740
-	github.com/wailsapp/wails/v2 v2.9.3
+	github.com/wailsapp/wails/v2 v2.10.1
 )
 
 require (
@@ -54,5 +54,3 @@ require (
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
-
-// replace github.com/wailsapp/wails/v2 v2.9.2 => C:\Users\Diberium\go\pkg\mod
